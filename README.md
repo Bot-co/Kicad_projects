@@ -85,4 +85,4 @@ This board uses the ATtiny85-20S, which supports:
 - **USBasp**
 - **Arduino as ISP**
 - **AVRDUDE**
-- **Micronucleus bootloader** (optional, if installed)
+- **Micronucleus bootloader**
